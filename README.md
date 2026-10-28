@@ -7,8 +7,8 @@ I’m a backend developer based in Lisbon, Portugal. I mainly work with Java and
 ## Projects
 
 - **AnamVis** - Inspired by my father’s experience as an ophthalmologist, a platform that brings patient messages and medical records together, with AI-assisted triage and document search.
-- **IronBuddy** — Inspired by training with friends and joining a running club in Nice, a fitness community for finding training partners, organising activities and sharing experiences.
-- **DISME Wizard** — Developed during my research internship at ARDITI, a conversational tool that turns business requirements into models for a low-code platform.
+- **IronBuddy** - Inspired by training with friends and joining a running club in Nice, a fitness community for finding training partners, organising activities and sharing experiences.
+- **DISME Wizard** - Developed during my research internship at ARDITI, a conversational tool that turns business requirements into models for a low-code platform.
 
 ## Technologies
 
