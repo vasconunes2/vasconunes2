@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Vasco 👋
 
-<!--
-**vasconunes2/vasconunes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend developer based in Lisbon, Portugal. I mainly work with Java and Spring Boot, and explore AWS and AI integration through my projects.
 
-Here are some ideas to get you started:
+**[Explore my projects at vasconunes.dev →](https://vasconunes.dev)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **AnamVis** - Inspired by my father’s experience as an ophthalmologist, a platform that brings patient messages and medical records together, with AI-assisted triage and document search.
+- **IronBuddy** — Inspired by training with friends and joining a running club in Nice, a fitness community for finding training partners, organising activities and sharing experiences.
+- **DISME Wizard** — Developed during my research internship at ARDITI, a conversational tool that turns business requirements into models for a low-code platform.
+
+## Technologies
+
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL  
+**AI, cloud and tools:** Spring AI, Python, AWS, Docker, Git, Maven, JUnit, Mockito
