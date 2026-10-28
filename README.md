@@ -2,7 +2,7 @@
 
 I’m a backend developer based in Lisbon, Portugal. I mainly work with Java and Spring Boot, and explore AWS and AI integration through my projects.
 
-**[Explore my projects at vasconunes.dev →](https://vasconunes.dev)**
+**Explore my projects at [vasconunes.dev ](https://vasconunes.dev)**
 
 ## Projects
 
